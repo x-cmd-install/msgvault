@@ -2,10 +2,10 @@ about:
   description: "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB"
   license: MIT
   homepage: https://msgvault.io
-  head: a5a79b5
+  head: b53f1da
   archived: false
   latestVersion: "v0.19.3"
-  collectedAt: 2026-09-07T05:49:30Z
+  collectedAt: 2026-09-07T18:47:49Z
 timeline:
   created: 2026-01-28
   lastCommit: 2026-09-07
@@ -16,22 +16,22 @@ popularity:
   fork: 154
   release: 37
   contributor: 53
-  pullRequest: 559
+  pullRequest: 567
   issue: 229
 language:
-  Go: 30817251
-  TypeScript: 2865616
-  Svelte: 860822
-  PLpgSQL: 166352
+  Go: 31148713
+  TypeScript: 3027891
+  Svelte: 917792
+  PLpgSQL: 184986
   HTML: 39755
   Shell: 38719
   JavaScript: 38670
   PowerShell: 33420
-  Makefile: 23073
+  Makefile: 23220
   CSS: 22927
   Go Template: 11529
   Dockerfile: 3169
-totalBytes: 34921303
+totalBytes: 35490791
 recent:
   last30d:
     since: 2026-08-08
@@ -83,39 +83,39 @@ recent:
     commit: 0
 total:
   release: 37
-  mergedPR: 465
-  openPR: 9
-  closedIssue: 185
-  openIssue: 44
-  commit: 626
+  mergedPR: 471
+  openPR: 11
+  closedIssue: 189
+  openIssue: 40
+  commit: 632
 ---
 path: /home/runner/.x-repo/github.com/wesm/msgvault
-collectedAt: 2026-09-07T05:49:38Z
+collectedAt: 2026-09-07T18:47:54Z
 loc:
   Go:
-    code: 776643
-    comments: 54816
-    blanks: 78268
-    files: 2036
+    code: 784646
+    comments: 55002
+    blanks: 78842
+    files: 2055
   TypeScript:
-    code: 59680
-    comments: 5271
-    blanks: 5559
-    files: 938
+    code: 63047
+    comments: 5293
+    blanks: 5884
+    files: 951
   Yaml:
-    code: 48357
+    code: 48624
     comments: 0
     blanks: 0
     files: 3
   Svelte:
-    code: 6900
-    comments: 53
-    blanks: 288
-    files: 79
+    code: 7324
+    comments: 54
+    blanks: 309
+    files: 84
   Sql:
-    code: 6056
-    comments: 959
-    blanks: 595
+    code: 6481
+    comments: 967
+    blanks: 631
     files: 5
   Python:
     code: 3177
@@ -133,10 +133,10 @@ loc:
     blanks: 46
     files: 21
   Json:
-    code: 1274
+    code: 1349
     comments: 0
     blanks: 0
-    files: 57
+    files: 59
   Css:
     code: 1238
     comments: 30
@@ -154,7 +154,7 @@ loc:
     files: 3
   Makefile:
     code: 281
-    comments: 141
+    comments: 143
     blanks: 70
     files: 1
   Svg:
@@ -179,8 +179,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 16349
-    blanks: 5310
+    comments: 16443
+    blanks: 5333
     files: 78
   Text:
     code: 0
@@ -188,15 +188,15 @@ loc:
     blanks: 8
     files: 3
 total:
-  code: 928014
-  comments: 78976
-  blanks: 92716
-  files: 3284
+  code: 941365
+  comments: 79289
+  blanks: 93755
+  files: 3323
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:49:40+00:00
+  collectedAt: 2026-09-07T18:47:55+00:00
   platform:
     darwin/arm64:
       name:  msgvault_0.19.3_darwin_arm64.tar.gz
