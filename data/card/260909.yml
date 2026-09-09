@@ -2,12 +2,12 @@ about:
   description: "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB"
   license: MIT
   homepage: https://msgvault.io
-  head: 377d8dd
+  head: ae02f2d
   archived: false
   latestVersion: "v0.19.3"
   latestRelease: "v0.19.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:56:19Z
+  collectedAt: 2026-09-09T20:06:31Z
 timeline:
   created: 2026-01-28
   lastCommit: 2026-09-09
@@ -19,13 +19,13 @@ popularity:
   watcher: 14
   fork: 154
   release: 37
-  contributor: 53
-  pullRequest: 581
-  issue: 232
+  contributor: 54
+  pullRequest: 584
+  issue: 233
 language:
-  Go: 32100863
-  TypeScript: 3133853
-  Svelte: 936341
+  Go: 32221312
+  TypeScript: 3144862
+  Svelte: 935172
   PLpgSQL: 189148
   HTML: 40775
   Shell: 38719
@@ -35,7 +35,7 @@ language:
   CSS: 23464
   Go Template: 11529
   Dockerfile: 3169
-totalBytes: 36574730
+totalBytes: 36705019
 recent:
   last30d:
     since: 2026-08-10
@@ -87,32 +87,32 @@ recent:
     commit: 0
 total:
   release: 37
-  mergedPR: 487
+  mergedPR: 490
   openPR: 8
-  closedIssue: 202
+  closedIssue: 203
   openIssue: 30
-  commit: 648
+  commit: 651
 ---
 path: /home/runner/.x-repo/github.com/wesm/msgvault
-collectedAt: 2026-09-09T05:56:31Z
+collectedAt: 2026-09-09T20:06:37Z
 loc:
   Go:
-    code: 806101
-    comments: 56868
-    blanks: 80763
-    files: 2135
+    code: 809160
+    comments: 57060
+    blanks: 81050
+    files: 2145
   TypeScript:
-    code: 65225
-    comments: 5444
-    blanks: 6110
-    files: 971
+    code: 65459
+    comments: 5483
+    blanks: 6132
+    files: 981
   Yaml:
-    code: 49622
+    code: 49982
     comments: 0
     blanks: 0
     files: 3
   Svelte:
-    code: 7572
+    code: 7575
     comments: 54
     blanks: 324
     files: 85
@@ -183,8 +183,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18539
-    blanks: 5882
+    comments: 18694
+    blanks: 5911
     files: 86
   Text:
     code: 0
@@ -192,10 +192,10 @@ loc:
     blanks: 8
     files: 3
 total:
-  code: 967278
-  comments: 83434
-  blanks: 96503
-  files: 3437
+  code: 970937
+  comments: 83821
+  blanks: 96844
+  files: 3457
 ---
 
 ---

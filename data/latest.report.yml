@@ -2,12 +2,12 @@ about:
   description: "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB"
   license: MIT
   homepage: https://msgvault.io
-  head: 377d8dd
+  head: ae02f2d
   archived: false
   latestVersion: "v0.19.3"
   latestRelease: "v0.19.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:56:19Z
+  collectedAt: 2026-09-09T20:06:31Z
 timeline:
   created: 2026-01-28
   lastCommit: 2026-09-09
@@ -19,13 +19,13 @@ popularity:
   watcher: 14
   fork: 154
   release: 37
-  contributor: 53
-  pullRequest: 581
-  issue: 232
+  contributor: 54
+  pullRequest: 584
+  issue: 233
 language:
-  Go: 32100863
-  TypeScript: 3133853
-  Svelte: 936341
+  Go: 32221312
+  TypeScript: 3144862
+  Svelte: 935172
   PLpgSQL: 189148
   HTML: 40775
   Shell: 38719
@@ -35,7 +35,7 @@ language:
   CSS: 23464
   Go Template: 11529
   Dockerfile: 3169
-totalBytes: 36574730
+totalBytes: 36705019
 recent:
   last30d:
     since: 2026-08-10
@@ -87,32 +87,32 @@ recent:
     commit: 0
 total:
   release: 37
-  mergedPR: 487
+  mergedPR: 490
   openPR: 8
-  closedIssue: 202
+  closedIssue: 203
   openIssue: 30
-  commit: 648
+  commit: 651
 ---
 path: /home/runner/.x-repo/github.com/wesm/msgvault
-collectedAt: 2026-09-09T05:56:31Z
+collectedAt: 2026-09-09T20:06:37Z
 loc:
   Go:
-    code: 806101
-    comments: 56868
-    blanks: 80763
-    files: 2135
+    code: 809160
+    comments: 57060
+    blanks: 81050
+    files: 2145
   TypeScript:
-    code: 65225
-    comments: 5444
-    blanks: 6110
-    files: 971
+    code: 65459
+    comments: 5483
+    blanks: 6132
+    files: 981
   Yaml:
-    code: 49622
+    code: 49982
     comments: 0
     blanks: 0
     files: 3
   Svelte:
-    code: 7572
+    code: 7575
     comments: 54
     blanks: 324
     files: 85
@@ -183,8 +183,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18539
-    blanks: 5882
+    comments: 18694
+    blanks: 5911
     files: 86
   Text:
     code: 0
@@ -192,11 +192,11 @@ loc:
     blanks: 8
     files: 3
 total:
-  code: 967278
-  comments: 83434
-  blanks: 96503
-  files: 3437
+  code: 970937
+  comments: 83821
+  blanks: 96844
+  files: 3457
 ---
 
 ---
-{"id":367497825,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORDJI584V55Jh","tag_name":"v0.19.3","target_commitish":"main","name":"v0.19.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-09T13:56:56Z","updated_at":"2026-08-22T19:41:44Z","published_at":"2026-08-09T14:15:57Z","assets":[{"id":525386465,"node_id":"RA_kwDORDJI584fUMLh","name":"msgvault_0.19.3_darwin_amd64.tar.gz","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":37597234,"digest":"sha256:133de1fcd7e26fe8b423ec8bdcb12bbf0cff042264efb5c3689d59ec0ef00a18","download_count":38,"created_at":"2026-08-22T19:41:42Z","updated_at":"2026-08-22T19:41:44Z"},{"id":525386467,"node_id":"RA_kwDORDJI584fUMLj","name":"msgvault_0.19.3_darwin_arm64.tar.gz","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":33986845,"digest":"sha256:fd639d12bd91465f0adc83d9346a8250b962e2f6519b9a4325a8961d3641a872","download_count":130,"created_at":"2026-08-22T19:41:42Z","updated_at":"2026-08-22T19:41:43Z"},{"id":507580166,"node_id":"RA_kwDORDJI584eQQ8G","name":"msgvault_0.19.3_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":40643288,"digest":"sha256:bc5e804b96fd6f2aa90e48894e1022ff330708e2ebeda2a74fb6e3e3968242e6","download_count":709,"created_at":"2026-08-09T14:15:54Z","updated_at":"2026-08-09T14:15:56Z"},{"id":507580167,"node_id":"RA_kwDORDJI584eQQ8H","name":"msgvault_0.19.3_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":37252021,"digest":"sha256:5812a0278fbf5e24c99ef7e750a67904562a306451ae9902f1a6b82ddc7405fd","download_count":81,"created_at":"2026-08-09T14:15:54Z","updated_at":"2026-08-09T14:15:56Z"},{"id":520313425,"node_id":"RA_kwDORDJI584fA1pR","name":"msgvault_0.19.3_windows_amd64.zip","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":38385575,"digest":"sha256:77613dd310fbb2dc21e6e82fd2bbd9826ceae5a2d4b9e03e12643a54090f72ad","download_count":136,"created_at":"2026-08-19T03:06:39Z","updated_at":"2026-08-19T03:06:41Z"},{"id":520313423,"node_id":"RA_kwDORDJI584fA1pP","name":"msgvault_0.19.3_windows_arm64.zip","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":32578005,"digest":"sha256:dcd5b085851f4134891eaf6bdee58a8be93e7ba4823ead5febc508f17485092e","download_count":28,"created_at":"2026-08-19T03:06:39Z","updated_at":"2026-08-19T03:06:41Z"},{"id":525386464,"node_id":"RA_kwDORDJI584fUMLg","name":"SHA256SUMS","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":606,"digest":"sha256:6ec56242759729c6fb0fdb55ba5842db67497aef7944888638a97a123e19052b","download_count":417,"created_at":"2026-08-22T19:41:42Z","updated_at":"2026-08-22T19:41:42Z"}],"body":"- Start the API immediately while the analytics cache builds in the background.\n- Respect provider rate limits during Circleback syncs.\n- Improve daemon job scheduling and meeting import reliability.\n\n- Repair dangling message recipients automatically during database upgrades.\n- Prevent keyed-object Circleback insights from blocking sync.\n- Treat cooperative embedding scheduler yields as normal instead of job failures."}
+{"id":367497825,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORDJI584V55Jh","tag_name":"v0.19.3","target_commitish":"main","name":"v0.19.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-08-09T13:56:56Z","updated_at":"2026-08-22T19:41:44Z","published_at":"2026-08-09T14:15:57Z","assets":[{"id":525386465,"node_id":"RA_kwDORDJI584fUMLh","name":"msgvault_0.19.3_darwin_amd64.tar.gz","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":37597234,"digest":"sha256:133de1fcd7e26fe8b423ec8bdcb12bbf0cff042264efb5c3689d59ec0ef00a18","download_count":40,"created_at":"2026-08-22T19:41:42Z","updated_at":"2026-08-22T19:41:44Z"},{"id":525386467,"node_id":"RA_kwDORDJI584fUMLj","name":"msgvault_0.19.3_darwin_arm64.tar.gz","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":33986845,"digest":"sha256:fd639d12bd91465f0adc83d9346a8250b962e2f6519b9a4325a8961d3641a872","download_count":133,"created_at":"2026-08-22T19:41:42Z","updated_at":"2026-08-22T19:41:43Z"},{"id":507580166,"node_id":"RA_kwDORDJI584eQQ8G","name":"msgvault_0.19.3_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":40643288,"digest":"sha256:bc5e804b96fd6f2aa90e48894e1022ff330708e2ebeda2a74fb6e3e3968242e6","download_count":733,"created_at":"2026-08-09T14:15:54Z","updated_at":"2026-08-09T14:15:56Z"},{"id":507580167,"node_id":"RA_kwDORDJI584eQQ8H","name":"msgvault_0.19.3_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":37252021,"digest":"sha256:5812a0278fbf5e24c99ef7e750a67904562a306451ae9902f1a6b82ddc7405fd","download_count":85,"created_at":"2026-08-09T14:15:54Z","updated_at":"2026-08-09T14:15:56Z"},{"id":520313425,"node_id":"RA_kwDORDJI584fA1pR","name":"msgvault_0.19.3_windows_amd64.zip","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":38385575,"digest":"sha256:77613dd310fbb2dc21e6e82fd2bbd9826ceae5a2d4b9e03e12643a54090f72ad","download_count":147,"created_at":"2026-08-19T03:06:39Z","updated_at":"2026-08-19T03:06:41Z"},{"id":520313423,"node_id":"RA_kwDORDJI584fA1pP","name":"msgvault_0.19.3_windows_arm64.zip","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":32578005,"digest":"sha256:dcd5b085851f4134891eaf6bdee58a8be93e7ba4823ead5febc508f17485092e","download_count":29,"created_at":"2026-08-19T03:06:39Z","updated_at":"2026-08-19T03:06:41Z"},{"id":525386464,"node_id":"RA_kwDORDJI584fUMLg","name":"SHA256SUMS","label":"","uploader":{"login":"kenn-dist-update-bot[bot]","id":313427593,"node_id":"BOT_kgDOEq6GiQ","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":606,"digest":"sha256:6ec56242759729c6fb0fdb55ba5842db67497aef7944888638a97a123e19052b","download_count":435,"created_at":"2026-08-22T19:41:42Z","updated_at":"2026-08-22T19:41:42Z"}],"body":"- Start the API immediately while the analytics cache builds in the background.\n- Respect provider rate limits during Circleback syncs.\n- Improve daemon job scheduling and meeting import reliability.\n\n- Repair dangling message recipients automatically during database upgrades.\n- Prevent keyed-object Circleback insights from blocking sync.\n- Treat cooperative embedding scheduler yields as normal instead of job failures."}
