@@ -14,11 +14,11 @@ x install msgvault
 
 ## Code insight
 
-Total: **959,254** lines of code across **3247** files in the top 5 languages.
+Total: **960,288** lines of code across **3253** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 816,861 | 57,649 | 81,535 | 2173 |
+| Go | 817,895 | 57,721 | 81,626 | 2179 |
 | TypeScript | 65,601 | 5,483 | 6,138 | 981 |
 | Yaml | 49,982 | 0 | 0 | 3 |
 | Svelte | 7,599 | 54 | 324 | 85 |
@@ -38,11 +38,11 @@ Total: **959,254** lines of code across **3247** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,059 · **Forks**: 154 · **Open issues**: 235 · **Contributors**: 54
+- **Stars**: 2,059 · **Forks**: 154 · **Open issues**: 236 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 496 · **Open PRs**: 11 · **Closed issues**: 204 · **Open issues**: 31 · **Commits**: 657
+- **Releases**: 37 · **Merged PRs**: 501 · **Open PRs**: 6 · **Closed issues**: 205 · **Open issues**: 31 · **Commits**: 662
 
 ## Recent activity
 
@@ -84,4 +84,4 @@ Install metadata for msgvault lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:25:29Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:24:27Z._
