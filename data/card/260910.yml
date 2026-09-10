@@ -2,15 +2,15 @@ about:
   description: "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB"
   license: MIT
   homepage: https://msgvault.io
-  head: c0e0afc
+  head: 93fe003
   archived: false
   latestVersion: "v0.19.3"
   latestRelease: "v0.19.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:02:50Z
+  collectedAt: 2026-09-10T20:25:13Z
 timeline:
   created: 2026-01-28
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-08-09
   lastRelease: 2026-08-09
   lastPrerelease: 
@@ -20,22 +20,22 @@ popularity:
   fork: 154
   release: 37
   contributor: 54
-  pullRequest: 590
-  issue: 234
+  pullRequest: 593
+  issue: 235
 language:
-  Go: 32242046
-  TypeScript: 3144862
-  Svelte: 935172
+  Go: 32579304
+  TypeScript: 3154614
+  Svelte: 938037
   PLpgSQL: 189148
   HTML: 40775
   Shell: 38719
   JavaScript: 38670
   PowerShell: 33420
   Makefile: 24779
-  CSS: 23464
+  CSS: 24513
   Go Template: 11529
   Dockerfile: 3169
-totalBytes: 36725753
+totalBytes: 37076677
 recent:
   last30d:
     since: 2026-08-11
@@ -87,24 +87,24 @@ recent:
     commit: 0
 total:
   release: 37
-  mergedPR: 491
-  openPR: 13
-  closedIssue: 203
+  mergedPR: 496
+  openPR: 11
+  closedIssue: 204
   openIssue: 31
-  commit: 652
+  commit: 657
 ---
 path: /home/runner/.x-repo/github.com/wesm/msgvault
-collectedAt: 2026-09-10T06:02:56Z
+collectedAt: 2026-09-10T20:25:20Z
 loc:
   Go:
-    code: 809696
-    comments: 57060
-    blanks: 81074
-    files: 2147
+    code: 816861
+    comments: 57649
+    blanks: 81535
+    files: 2173
   TypeScript:
-    code: 65459
+    code: 65601
     comments: 5483
-    blanks: 6132
+    blanks: 6138
     files: 981
   Yaml:
     code: 49982
@@ -112,7 +112,7 @@ loc:
     blanks: 0
     files: 3
   Svelte:
-    code: 7575
+    code: 7599
     comments: 54
     blanks: 324
     files: 85
@@ -132,19 +132,19 @@ loc:
     blanks: 332
     files: 21
   Json:
-    code: 1765
+    code: 1830
     comments: 0
     blanks: 0
-    files: 62
+    files: 63
   Html:
     code: 1400
     comments: 3
     blanks: 52
     files: 21
   Css:
-    code: 1249
-    comments: 32
-    blanks: 227
+    code: 1270
+    comments: 35
+    blanks: 231
     files: 6
   JavaScript:
     code: 1019
@@ -183,19 +183,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18720
-    blanks: 5928
-    files: 86
+    comments: 18813
+    blanks: 5956
+    files: 87
   Text:
     code: 0
-    comments: 39
+    comments: 57
     blanks: 8
-    files: 3
+    files: 5
 total:
-  code: 971484
-  comments: 83847
-  blanks: 96885
-  files: 3459
+  code: 978968
+  comments: 84552
+  blanks: 97393
+  files: 3489
 ---
 
 ---

@@ -1,0 +1,26 @@
+- repo: aur
+  srcname: msgvault-bin
+  binname: msgvault-bin
+  visiblename: msgvault-bin
+  version: 0.19.3
+  origversion: 0.19.3-1
+  status: newest
+  summary: Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB.
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: msgvault
+  visiblename: msgvault
+  version: 0.19.3
+  origversion: null
+  status: newest
+  summary: Archive a lifetime of email and chat with offline search and analytics
+- repo: homebrew
+  srcname: msgvault
+  visiblename: msgvault
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Archive a lifetime of email and chat with offline search and analytics
