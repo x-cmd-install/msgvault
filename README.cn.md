@@ -38,11 +38,11 @@ x install msgvault
 
 ## 流行度
 
-- **Star**: 2,059 · **Fork**: 154 · **开放 issue**: 236 · **贡献者**: 54
+- **Star**: 2,060 · **Fork**: 154 · **开放 issue**: 236 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 502 · **开放 PR**: 7 · **已关闭 issue**: 206 · **开放 issue**: 30 · **提交数**: 663
+- **发布数**: 37 · **已合并 PR**: 503 · **开放 PR**: 9 · **已关闭 issue**: 206 · **开放 issue**: 30 · **提交数**: 664
 
 ## 最近活动
 
@@ -84,4 +84,4 @@ msgvault 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:00:19Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T19:01:35Z._

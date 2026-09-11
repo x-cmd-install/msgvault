@@ -38,11 +38,11 @@ Total: **961,143** lines of code across **3257** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,059 · **Forks**: 154 · **Open issues**: 236 · **Contributors**: 54
+- **Stars**: 2,060 · **Forks**: 154 · **Open issues**: 236 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 502 · **Open PRs**: 7 · **Closed issues**: 206 · **Open issues**: 30 · **Commits**: 663
+- **Releases**: 37 · **Merged PRs**: 503 · **Open PRs**: 9 · **Closed issues**: 206 · **Open issues**: 30 · **Commits**: 664
 
 ## Recent activity
 
@@ -84,4 +84,4 @@ Install metadata for msgvault lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:00:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:01:33Z._
