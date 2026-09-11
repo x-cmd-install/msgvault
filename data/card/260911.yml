@@ -2,12 +2,12 @@ about:
   description: "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB"
   license: MIT
   homepage: https://msgvault.io
-  head: 6c62a15
+  head: 3ed54ad
   archived: false
   latestVersion: "v0.19.3"
   latestRelease: "v0.19.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:00:06Z
+  collectedAt: 2026-09-11T19:01:09Z
 timeline:
   created: 2026-01-28
   lastCommit: 2026-09-11
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-09
   lastPrerelease: 
 popularity:
-  star: 2059
+  star: 2060
   watcher: 14
   fork: 154
   release: 37
   contributor: 54
-  pullRequest: 595
+  pullRequest: 598
   issue: 236
 language:
   Go: 32664627
@@ -87,14 +87,14 @@ recent:
     commit: 0
 total:
   release: 37
-  mergedPR: 502
-  openPR: 7
+  mergedPR: 503
+  openPR: 9
   closedIssue: 206
   openIssue: 30
-  commit: 663
+  commit: 664
 ---
 path: /home/runner/.x-repo/github.com/wesm/msgvault
-collectedAt: 2026-09-11T06:00:12Z
+collectedAt: 2026-09-11T19:01:20Z
 loc:
   Go:
     code: 818743
