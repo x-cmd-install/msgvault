@@ -38,22 +38,22 @@ Total: **974,691** lines of code across **3325** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,061 · **Forks**: 154 · **Open issues**: 237 · **Contributors**: 54
+- **Stars**: 2,062 · **Forks**: 154 · **Open issues**: 239 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 509 · **Open PRs**: 5 · **Closed issues**: 206 · **Open issues**: 31 · **Commits**: 670
+- **Releases**: 37 · **Merged PRs**: 509 · **Open PRs**: 5 · **Closed issues**: 207 · **Open issues**: 32 · **Commits**: 670
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 37 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 37 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 37 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 37 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -67,14 +67,6 @@ Total: **974,691** lines of code across **3325** files in the top 5 languages.
 | [msgvault_0.19.3_windows_arm64.zip](https://github.com/wesm/msgvault/releases/download/v0.19.3/msgvault_0.19.3_windows_arm64.zip) | 31.1 MiB | `native/win/arm64` |
 | [SHA256SUMS](https://github.com/wesm/msgvault/releases/download/v0.19.3/SHA256SUMS) | 606 B | `other` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/msgvault). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.19.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for msgvault lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `msgvault` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +76,4 @@ Install metadata for msgvault lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:05:23Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:17:33Z._
