@@ -14,11 +14,11 @@ x install msgvault
 
 ## Code insight
 
-Total: **987,481** lines of code across **3363** files in the top 5 languages.
+Total: **987,516** lines of code across **3363** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 842,064 | 58,582 | 83,321 | 2257 |
+| Go | 842,099 | 58,582 | 83,324 | 2257 |
 | TypeScript | 66,846 | 5,651 | 6,319 | 1010 |
 | Yaml | 51,159 | 0 | 0 | 3 |
 | Svelte | 7,864 | 57 | 335 | 88 |
@@ -33,27 +33,27 @@ Total: **987,481** lines of code across **3363** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.19.3` (2026-08-09)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 2,065 · **Forks**: 156 · **Open issues**: 248 · **Contributors**: 54
+- **Stars**: 2,066 · **Forks**: 156 · **Open issues**: 248 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 528 · **Open PRs**: 13 · **Closed issues**: 212 · **Open issues**: 36 · **Commits**: 689
+- **Releases**: 37 · **Merged PRs**: 530 · **Open PRs**: 12 · **Closed issues**: 213 · **Open issues**: 35 · **Commits**: 691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-25 | 37 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-30 | 37 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-26 | 37 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-01 | 37 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for msgvault lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:10:19Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:22:26Z._
