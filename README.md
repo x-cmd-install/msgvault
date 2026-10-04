@@ -14,11 +14,11 @@ x install msgvault
 
 ## Code insight
 
-Total: **1,146,157** lines of code across **3937** files in the top 5 languages.
+Total: **1,149,751** lines of code across **3955** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 965,723 | 63,981 | 92,501 | 2667 |
+| Go | 969,316 | 64,058 | 92,747 | 2685 |
 | TypeScript | 79,831 | 6,370 | 7,514 | 1162 |
 | Yaml | 58,881 | 0 | 0 | 3 |
 | C | 10,366 | 961 | 688 | 1 |
@@ -38,22 +38,22 @@ Total: **1,146,157** lines of code across **3937** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,122 · **Forks**: 165 · **Open issues**: 302 · **Contributors**: 58
+- **Stars**: 2,129 · **Forks**: 165 · **Open issues**: 309 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 641 · **Open PRs**: 38 · **Closed issues**: 265 · **Open issues**: 37 · **Commits**: 800
+- **Releases**: 39 · **Merged PRs**: 643 · **Open PRs**: 48 · **Closed issues**: 268 · **Open issues**: 41 · **Commits**: 802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-04 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-05 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-06 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-08 | 39 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-13 | 39 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-04 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-05 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-06 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-07 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-09 | 39 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-14 | 39 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for msgvault lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:24:38Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:51:36Z._
