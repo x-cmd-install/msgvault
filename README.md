@@ -14,15 +14,15 @@ x install msgvault
 
 ## Code insight
 
-Total: **1,168,440** lines of code across **4041** files in the top 5 languages.
+Total: **1,184,017** lines of code across **4146** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 986,724 | 64,583 | 93,866 | 2747 |
-| TypeScript | 80,116 | 6,462 | 7,549 | 1186 |
-| Yaml | 59,913 | 0 | 0 | 3 |
+| Go | 999,376 | 65,839 | 94,953 | 2816 |
+| TypeScript | 81,363 | 6,620 | 7,688 | 1218 |
+| Yaml | 61,191 | 0 | 0 | 3 |
 | C | 10,366 | 961 | 688 | 1 |
-| Svelte | 8,914 | 64 | 369 | 104 |
+| Svelte | 9,359 | 73 | 385 | 108 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,168,440** lines of code across **4041** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.21.0` (2026-10-02)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-08
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 2,142 · **Forks**: 167 · **Open issues**: 323 · **Contributors**: 59
+- **Stars**: 2,143 · **Forks**: 167 · **Open issues**: 328 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 669 · **Open PRs**: 61 · **Closed issues**: 273 · **Open issues**: 50 · **Commits**: 826
+- **Releases**: 39 · **Merged PRs**: 680 · **Open PRs**: 59 · **Closed issues**: 273 · **Open issues**: 55 · **Commits**: 837
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 39 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 39 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 39 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 39 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for msgvault lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:06:28Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:14:06Z._
