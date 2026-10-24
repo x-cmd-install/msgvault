@@ -14,13 +14,13 @@ x install msgvault
 
 ## 代码洞察
 
-合计: **1,310,899** 行代码（覆盖前 5 种语言、共 **4758** 个文件）。
+合计: **1,317,094** 行代码（覆盖前 5 种语言、共 **4793** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,115,997 | 69,835 | 101,878 | 3318 |
-| TypeScript | 85,145 | 7,153 | 7,951 | 1325 |
-| Yaml | 67,036 | 0 | 0 | 3 |
+| Go | 1,121,851 | 70,218 | 102,288 | 3349 |
+| TypeScript | 85,263 | 7,182 | 7,956 | 1329 |
+| Yaml | 67,258 | 0 | 0 | 3 |
 | C | 10,366 | 961 | 688 | 1 |
 | Svelte | 9,532 | 74 | 390 | 111 |
 
@@ -32,58 +32,58 @@ x install msgvault
 
 ## 发布
 
-- **最新版本**: `v0.21.0` (2026-10-02)
+- **最新版本**: `v0.22.0` (2026-10-23)
 - **最近提交**: 2026-10-23
 - **Release 含资产**: 25 个
 
 ## 流行度
 
-- **Star**: 2,163 · **Fork**: 169 · **开放 issue**: 389 · **贡献者**: 61
+- **Star**: 2,163 · **Fork**: 169 · **开放 issue**: 389 · **贡献者**: 63
 
 ## 累计统计
 
-- **发布数**: 39 · **已合并 PR**: 814 · **开放 PR**: 92 · **已关闭 issue**: 326 · **开放 issue**: 63 · **提交数**: 971
+- **发布数**: 40 · **已合并 PR**: 827 · **开放 PR**: 114 · **已关闭 issue**: 334 · **开放 issue**: 55 · **提交数**: 984
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 39 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 39 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 40 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 40 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [msgvault_0.21.0_darwin_amd64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_amd64.tar.gz) | 47.4 MiB | `native/darwin/x64` |
-| [msgvault_0.21.0_darwin_amd64.tar.gz.macos-notarization.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_amd64.tar.gz.macos-notarization.json) | 577 B | `native/darwin/x64` |
-| [msgvault_0.21.0_darwin_amd64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/x64` |
-| [msgvault_0.21.0_darwin_amd64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_amd64.tar.gz.spdx.json) | 202.0 KiB | `native/darwin/x64` |
-| [msgvault_0.21.0_darwin_arm64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_arm64.tar.gz) | 42.4 MiB | `native/darwin/arm64` |
-| [msgvault_0.21.0_darwin_arm64.tar.gz.macos-notarization.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_arm64.tar.gz.macos-notarization.json) | 577 B | `native/darwin/arm64` |
-| [msgvault_0.21.0_darwin_arm64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/arm64` |
-| [msgvault_0.21.0_darwin_arm64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_darwin_arm64.tar.gz.spdx.json) | 202.0 KiB | `native/darwin/arm64` |
-| [msgvault_0.21.0_linux_amd64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_linux_amd64.tar.gz) | 50.4 MiB | `native/linux/x64` |
-| [msgvault_0.21.0_linux_amd64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_linux_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/x64` |
-| [msgvault_0.21.0_linux_amd64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_linux_amd64.tar.gz.spdx.json) | 205.1 KiB | `native/linux/x64` |
-| [msgvault_0.21.0_linux_arm64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_linux_arm64.tar.gz) | 46.4 MiB | `native/linux/arm64` |
-| [msgvault_0.21.0_linux_arm64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_linux_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/arm64` |
-| [msgvault_0.21.0_linux_arm64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_linux_arm64.tar.gz.spdx.json) | 205.1 KiB | `native/linux/arm64` |
-| [msgvault_0.21.0_source.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_source.tar.gz) | 10.9 MiB | `native/unknown` |
-| [msgvault_0.21.0_source.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_source.tar.gz.provenance.json) | 1.3 KiB | `other` |
-| [msgvault_0.21.0_source.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_source.tar.gz.spdx.json) | 675.6 KiB | `other` |
-| [msgvault_0.21.0_windows_amd64.zip](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_windows_amd64.zip) | 49.0 MiB | `native/win/x64` |
-| [msgvault_0.21.0_windows_amd64.zip.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_windows_amd64.zip.provenance.json) | 1.3 KiB | `native/win/x64` |
-| [msgvault_0.21.0_windows_amd64.zip.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_windows_amd64.zip.spdx.json) | 204.2 KiB | `native/win/x64` |
-| [msgvault_0.21.0_windows_arm64.zip](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_windows_arm64.zip) | 42.4 MiB | `native/win/arm64` |
-| [msgvault_0.21.0_windows_arm64.zip.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_windows_arm64.zip.provenance.json) | 1.3 KiB | `native/win/arm64` |
-| [msgvault_0.21.0_windows_arm64.zip.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.21.0/msgvault_0.21.0_windows_arm64.zip.spdx.json) | 202.4 KiB | `native/win/arm64` |
-| [SHA256SUMS](https://github.com/wesm/msgvault/releases/download/v0.21.0/SHA256SUMS) | 2.5 KiB | `other` |
-| [SHA256SUMS.sig](https://github.com/wesm/msgvault/releases/download/v0.21.0/SHA256SUMS.sig) | 96 B | `other` |
+| [msgvault_0.22.0_darwin_amd64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_amd64.tar.gz) | 51.1 MiB | `native/darwin/x64` |
+| [msgvault_0.22.0_darwin_amd64.tar.gz.macos-notarization.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_amd64.tar.gz.macos-notarization.json) | 577 B | `native/darwin/x64` |
+| [msgvault_0.22.0_darwin_amd64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/x64` |
+| [msgvault_0.22.0_darwin_amd64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_amd64.tar.gz.spdx.json) | 222.3 KiB | `native/darwin/x64` |
+| [msgvault_0.22.0_darwin_arm64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_arm64.tar.gz) | 46.3 MiB | `native/darwin/arm64` |
+| [msgvault_0.22.0_darwin_arm64.tar.gz.macos-notarization.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_arm64.tar.gz.macos-notarization.json) | 577 B | `native/darwin/arm64` |
+| [msgvault_0.22.0_darwin_arm64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/arm64` |
+| [msgvault_0.22.0_darwin_arm64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_darwin_arm64.tar.gz.spdx.json) | 222.3 KiB | `native/darwin/arm64` |
+| [msgvault_0.22.0_linux_amd64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_linux_amd64.tar.gz) | 53.7 MiB | `native/linux/x64` |
+| [msgvault_0.22.0_linux_amd64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_linux_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/x64` |
+| [msgvault_0.22.0_linux_amd64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_linux_amd64.tar.gz.spdx.json) | 225.4 KiB | `native/linux/x64` |
+| [msgvault_0.22.0_linux_arm64.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_linux_arm64.tar.gz) | 49.4 MiB | `native/linux/arm64` |
+| [msgvault_0.22.0_linux_arm64.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_linux_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/arm64` |
+| [msgvault_0.22.0_linux_arm64.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_linux_arm64.tar.gz.spdx.json) | 225.4 KiB | `native/linux/arm64` |
+| [msgvault_0.22.0_source.tar.gz](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_source.tar.gz) | 12.5 MiB | `native/unknown` |
+| [msgvault_0.22.0_source.tar.gz.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_source.tar.gz.provenance.json) | 1.3 KiB | `other` |
+| [msgvault_0.22.0_source.tar.gz.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_source.tar.gz.spdx.json) | 809.3 KiB | `other` |
+| [msgvault_0.22.0_windows_amd64.zip](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_windows_amd64.zip) | 52.7 MiB | `native/win/x64` |
+| [msgvault_0.22.0_windows_amd64.zip.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_windows_amd64.zip.provenance.json) | 1.3 KiB | `native/win/x64` |
+| [msgvault_0.22.0_windows_amd64.zip.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_windows_amd64.zip.spdx.json) | 224.5 KiB | `native/win/x64` |
+| [msgvault_0.22.0_windows_arm64.zip](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_windows_arm64.zip) | 45.7 MiB | `native/win/arm64` |
+| [msgvault_0.22.0_windows_arm64.zip.provenance.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_windows_arm64.zip.provenance.json) | 1.3 KiB | `native/win/arm64` |
+| [msgvault_0.22.0_windows_arm64.zip.spdx.json](https://github.com/wesm/msgvault/releases/download/v0.22.0/msgvault_0.22.0_windows_arm64.zip.spdx.json) | 222.7 KiB | `native/win/arm64` |
+| [SHA256SUMS](https://github.com/wesm/msgvault/releases/download/v0.22.0/SHA256SUMS) | 2.5 KiB | `other` |
+| [SHA256SUMS.sig](https://github.com/wesm/msgvault/releases/download/v0.22.0/SHA256SUMS.sig) | 96 B | `other` |
 
 ## 发行版状态
 
@@ -91,7 +91,7 @@ x install msgvault
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.21.0` | ✅ latest |
+| Homebrew | `0.22.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -102,4 +102,4 @@ msgvault 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:52:15Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:34:26Z._
