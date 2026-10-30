@@ -1,0 +1,218 @@
+about:
+  description: "Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB"
+  license: MIT
+  homepage: https://msgvault.io
+  head: fba4cbd
+  archived: false
+  latestVersion: "v0.22.0"
+  latestRelease: "v0.22.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T06:51:27Z
+timeline:
+  created: 2026-01-28
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-23
+  lastRelease: 2026-10-23
+  lastPrerelease: 
+popularity:
+  star: 2172
+  watcher: 12
+  fork: 171
+  release: 40
+  contributor: 64
+  pullRequest: 1170
+  issue: 398
+language:
+  Go: 45680349
+  TypeScript: 4211069
+  Svelte: 1196739
+  C: 1033632
+  PLpgSQL: 212183
+  HTML: 41352
+  JavaScript: 38670
+  PowerShell: 38241
+  Shell: 35480
+  Makefile: 32745
+  CSS: 28189
+  Go Template: 12041
+  Dockerfile: 4149
+  HCL: 997
+totalBytes: 52565836
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-08-31
+    release: 3
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-01
+    release: 6
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-05-03
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-11-04
+    release: 40
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-11-09
+    release: 40
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 40
+  mergedPR: 889
+  openPR: 108
+  closedIssue: 342
+  openIssue: 56
+  commit: 1046
+---
+path: /home/runner/.x-repo/github.com/wesm/msgvault
+collectedAt: 2026-10-30T06:51:47Z
+loc:
+  Go:
+    code: 1135796
+    comments: 70591
+    blanks: 102600
+    files: 3423
+  TypeScript:
+    code: 85388
+    comments: 7202
+    blanks: 7945
+    files: 1330
+  Yaml:
+    code: 67378
+    comments: 0
+    blanks: 0
+    files: 3
+  C:
+    code: 10366
+    comments: 961
+    blanks: 688
+    files: 1
+  Svelte:
+    code: 9566
+    comments: 74
+    blanks: 391
+    files: 111
+  Sql:
+    code: 7576
+    comments: 1062
+    blanks: 710
+    files: 5
+  Python:
+    code: 3316
+    comments: 61
+    blanks: 392
+    files: 10
+  Sh:
+    code: 2100
+    comments: 184
+    blanks: 313
+    files: 21
+  Json:
+    code: 2084
+    comments: 0
+    blanks: 4
+    files: 66
+  CHeader:
+    code: 1918
+    comments: 12068
+    blanks: 368
+    files: 1
+  Html:
+    code: 1505
+    comments: 3
+    blanks: 45
+    files: 29
+  Css:
+    code: 1388
+    comments: 49
+    blanks: 257
+    files: 7
+  JavaScript:
+    code: 1019
+    comments: 26
+    blanks: 92
+    files: 10
+  PowerShell:
+    code: 894
+    comments: 68
+    blanks: 105
+    files: 3
+  Makefile:
+    code: 384
+    comments: 177
+    blanks: 83
+    files: 1
+  Svg:
+    code: 337
+    comments: 4
+    blanks: 9
+    files: 7
+  Toml:
+    code: 168
+    comments: 0
+    blanks: 19
+    files: 4
+  Dockerfile:
+    code: 124
+    comments: 33
+    blanks: 30
+    files: 3
+  Hcl:
+    code: 37
+    comments: 0
+    blanks: 5
+    files: 1
+  Xml:
+    code: 22
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 33339
+    blanks: 8968
+    files: 104
+  Text:
+    code: 0
+    comments: 122
+    blanks: 24
+    files: 7
+total:
+  code: 1356270
+  comments: 127250
+  blanks: 124874
+  files: 5148
+---
+
+---
