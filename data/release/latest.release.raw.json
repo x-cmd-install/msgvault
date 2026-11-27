@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 59513366,
       "digest": "sha256:950960505229388cce29487d36a0503d63da52a8413c31f63b3233333f866803",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-11-20T02:13:07Z",
       "updated_at": "2026-11-20T02:13:10Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 585,
       "digest": "sha256:36cb121dbe414d6edf9a8a40ae14bb7e5749b307149fab805cbe0655250e084d",
-      "download_count": 3,
+      "download_count": 9,
       "created_at": "2026-11-20T02:13:07Z",
       "updated_at": "2026-11-20T02:13:07Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_amd64.tar.gz.macos-notarization.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1347,
       "digest": "sha256:395a7a021bdcb731c298a6c0e4a914e816e00e9f63e43ef902c5194960c3e088",
-      "download_count": 3,
+      "download_count": 9,
       "created_at": "2026-11-20T02:13:07Z",
       "updated_at": "2026-11-20T02:13:07Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_amd64.tar.gz.provenance.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 238686,
       "digest": "sha256:da1579e732206acd6673ceb0c40983c454a7ecba73efb70c849c07fba8706fb3",
-      "download_count": 3,
+      "download_count": 9,
       "created_at": "2026-11-20T02:13:07Z",
       "updated_at": "2026-11-20T02:13:07Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_amd64.tar.gz.spdx.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 53788076,
       "digest": "sha256:525b6b6a722b53274cc8cdccbf0e65836d2695de50d7e7a4c09fc917690ac4e9",
-      "download_count": 82,
+      "download_count": 93,
       "created_at": "2026-11-20T02:13:08Z",
       "updated_at": "2026-11-20T02:13:11Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 585,
       "digest": "sha256:ed4b8306af0426370c336d035fdbd120a88cdd23e9281eedb660f653a4992e26",
-      "download_count": 7,
+      "download_count": 13,
       "created_at": "2026-11-20T02:13:08Z",
       "updated_at": "2026-11-20T02:13:08Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_arm64.tar.gz.macos-notarization.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1347,
       "digest": "sha256:1fc362c7adc49767d3800c60eb84bb388bedc9581d850dcde06b0a1b06fb1f7f",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-11-20T02:13:08Z",
       "updated_at": "2026-11-20T02:13:08Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_arm64.tar.gz.provenance.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 238686,
       "digest": "sha256:6154a329775cb87ad26e7eb54776693e60cb1e670b1d6ad097a601e18637fe32",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-11-20T02:13:08Z",
       "updated_at": "2026-11-20T02:13:08Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_darwin_arm64.tar.gz.spdx.json"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 64117136,
       "digest": "sha256:a61e0d779cc3f39b162d4802da2b1c229e5c32760b6c8b6e38ca8573e0434af6",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-11-20T02:13:11Z",
       "updated_at": "2026-11-20T02:13:14Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_homebrew_linux_amd64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 64117239,
       "digest": "sha256:10d7acc254413cb82c2c50079c37bec5e969bd808ec87bf7a3cfb70fccb5a4c1",
-      "download_count": 558,
+      "download_count": 623,
       "created_at": "2026-11-20T02:13:13Z",
       "updated_at": "2026-11-20T02:13:16Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_linux_amd64.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 58529442,
       "digest": "sha256:68add240d983132142784dc1cd9e705cda6d607cdfd9bbda0d6f4be8f314f62f",
-      "download_count": 40,
+      "download_count": 45,
       "created_at": "2026-11-20T02:13:14Z",
       "updated_at": "2026-11-20T02:13:16Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_linux_arm64.tar.gz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 60323021,
       "digest": "sha256:f1c0e049821b46a2b56f48e5a14cd291dc838f8aedf999fd661e4d170bf8b2e8",
-      "download_count": 91,
+      "download_count": 99,
       "created_at": "2026-11-20T02:13:16Z",
       "updated_at": "2026-11-20T02:13:19Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_windows_amd64.zip"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 52400787,
       "digest": "sha256:b907aafe06a5cb7f321d37ecf86064d2cf89ee0fad8ddcad5bebb669b7ec70ea",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-20T02:13:17Z",
       "updated_at": "2026-11-20T02:13:19Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/msgvault_0.26.0_windows_arm64.zip"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 5527,
       "digest": "sha256:b31dba1ba67bcaa8f41b23268527ae16cd70b2be9b9990d3eb028f8d7d54ff51",
-      "download_count": 228,
+      "download_count": 304,
       "created_at": "2026-11-20T02:13:17Z",
       "updated_at": "2026-11-20T02:13:18Z",
       "browser_download_url": "https://github.com/kenn-io/msgvault/releases/download/v0.26.0/SHA256SUMS"
